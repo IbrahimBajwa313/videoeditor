@@ -41,7 +41,7 @@ export function Footer() {
             <p className="text-gray-400 flex items-center justify-center">
               Made with <Heart className="h-4 w-4 text-red-500 mx-1" /> by Video Editor Pro
             </p>
-            <p className="text-gray-500 text-sm mt-2">© 2024 Video Editor Pro. All rights reserved.</p>
+            <p className="text-gray-500 text-sm mt-2">© 2025 Video Editor Pro. All rights reserved.</p>
           </div>
         </div>
       </div>

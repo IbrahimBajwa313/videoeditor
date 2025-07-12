@@ -38,8 +38,7 @@ export function About() {
                 documentaries, social media content, and corporate videos.
               </p>
               <p className="text-gray-600 leading-relaxed">
-                I specialize in Adobe Premiere Pro, After Effects, DaVinci Resolve, and Final Cut Pro, ensuring that
-                every project meets the highest standards of quality and creativity.
+                I’m a passionate video editor who creates music-free video edits that focus on storytelling, clarity, and emotion. I use CapCut and InShot to bring ideas to life with smooth cuts, clean transitions, and creative visuals.
               </p>
             </div>
           </div>
