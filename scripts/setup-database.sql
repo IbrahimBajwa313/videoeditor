@@ -1,0 +1,28 @@
+-- This is a reference for the MongoDB collections structure
+-- MongoDB doesn't use SQL, but this shows the expected document structure
+
+-- Projects Collection Structure:
+-- {
+--   "_id": ObjectId,
+--   "title": String (required),
+--   "description": String (required),
+--   "category": String (required) - one of: Commercial, Documentary, Social Media, Corporate, Music Video,
+--   "imageUrl": String (required),
+--   "videoUrl": String (optional),
+--   "tags": Array of Strings,
+--   "createdAt": ISO Date String,
+--   "updatedAt": ISO Date String
+-- }
+
+-- Example document:
+-- {
+--   "_id": ObjectId("..."),
+--   "title": "Brand Commercial 2024",
+--   "description": "A dynamic commercial showcasing the latest product line with stunning visuals and motion graphics.",
+--   "category": "Commercial",
+--   "imageUrl": "https://example.com/image.jpg",
+--   "videoUrl": "https://example.com/video.mp4",
+--   "tags": ["commercial", "motion graphics", "product", "branding"],
+--   "createdAt": "2024-01-15T10:30:00.000Z",
+--   "updatedAt": "2024-01-15T10:30:00.000Z"
+-- }
