@@ -16,7 +16,7 @@ export function About() {
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">About Me</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              I'm a passionate video editor with over 5 years of experience in creating compelling visual narratives.
+              I'm a passionate video editor with over 3 years of experience in creating compelling visual narratives.
               From corporate videos to creative content, I bring technical expertise and artistic vision to every
               project.
             </p>
