@@ -33,7 +33,7 @@ export function About() {
             <div className="space-y-6">
               <h3 className="text-3xl font-bold text-gray-900">My Journey</h3>
               <p className="text-gray-600 leading-relaxed">
-                Started as a freelance editor in 2019, I've worked with brands, agencies, and content creators to
+                Started as a freelance editor in 2022, I've worked with brands, agencies, and content creators to
                 produce high-quality video content. My expertise spans across various genres including commercials,
                 documentaries, social media content, and corporate videos.
               </p>
